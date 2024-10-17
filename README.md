@@ -1,5 +1,5 @@
 
-## Проект Django с использованием Redis, Stripe и Celery
+## Bookmarks Проект Django с использованием Redis, Stripe и Celery
 
 ### Описание проекта
 
